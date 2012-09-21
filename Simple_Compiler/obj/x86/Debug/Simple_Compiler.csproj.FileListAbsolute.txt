@@ -1,0 +1,24 @@
+c:\users\fanmixco\documents\visual studio 2010\Projects\Simple_Compiler\Simple_Compiler\bin\Debug\Simple_Compiler.exe
+c:\users\fanmixco\documents\visual studio 2010\Projects\Simple_Compiler\Simple_Compiler\bin\Debug\Simple_Compiler.pdb
+c:\users\fanmixco\documents\visual studio 2010\Projects\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.Form1.resources
+c:\users\fanmixco\documents\visual studio 2010\Projects\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.Properties.Resources.resources
+c:\users\fanmixco\documents\visual studio 2010\Projects\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.csproj.GenerateResource.Cache
+c:\users\fanmixco\documents\visual studio 2010\Projects\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.exe
+c:\users\fanmixco\documents\visual studio 2010\Projects\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.pdb
+D:\Galan\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.exe
+D:\Galan\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.pdb
+C:\Users\FANMixco\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.exe
+C:\Users\FANMixco\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.pdb
+D:\Galan\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\bin\Debug\Simple_Compiler.exe
+D:\Galan\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\bin\Debug\Simple_Compiler.pdb
+D:\Galan\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Galan\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.Form1.resources
+D:\Galan\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.Properties.Resources.resources
+D:\Galan\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Galan\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FANMixco\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\bin\Debug\Simple_Compiler.exe
+C:\Users\FANMixco\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\bin\Debug\Simple_Compiler.pdb
+C:\Users\FANMixco\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.Form1.resources
+C:\Users\FANMixco\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.Properties.Resources.resources
+C:\Users\FANMixco\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.csproj.GenerateResource.Cache
+C:\Users\FANMixco\Dropbox\Compiladores\Simple_Compiler\Simple_Compiler\obj\x86\Debug\Simple_Compiler.csprojResolveAssemblyReference.cache
